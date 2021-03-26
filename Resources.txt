@@ -1,0 +1,18 @@
+
+Used resources:
+
+* ResourceManager.inc uses file id #1
+
+* Following CFuncRam indices are used by various CSUBs:
+#define CFUNC_RAM_IDX_BOX_CORNER 0
+#define CFUNC_RAM_IDX_BOX_HORIZONTAL 1
+#define CFUNC_RAM_IDX_BOX_VERTICAL 2
+#define CFUNC_RAM_IDX_OBJLIST_NUMELEMS 3
+#define CFUNC_RAM_IDX_OBJLIST_LIST 4
+#define CFUNC_RAM_IDX_OBJ_FLAGS 5
+#define CFUNC_RAM_IDX_OBJ_POSITION 6
+
+* Nunchuk/I2C channel 3
+
+
+
