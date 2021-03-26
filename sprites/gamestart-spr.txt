@@ -1,0 +1,52 @@
+<HEADER>
+frames 2
+width 38
+height 19
+color yellow
+slowdown 15
+</HEADER>
+<BODY>
+     _____                            
+    / ___/____ ___  __________  _____ 
+    \__ \/ __ `/ / / / ___/ _ \/ ___/ 
+   ___/ / /_/ / /_/ / /__/  __/ /     
+  /____/\__,_/\__,_/\___/\___/_/      
+     _____ __                __       
+    / ___// /_  ____  ____  / /_      
+    \__ \/ __ \/ __ \/ __ \/ __/      
+   ___/ / / / / /_/ / /_/ / /_        
+  /____/_/ /_/\____/\____/\__/        
+                                      
+  Keyboard Controls: 'w'/'s' moves,   
+ Enter fires, Space nukes, 'q' quits. 
+                                      
+   Nunchuk Controls: up/down moves,   
+   Z-button fires, C-button nukes.    
+                                      
+    Press 'p' or Z-button to play,    
+             'q' to quit.             
+end
+    _____                             
+   / ___/____ ___  __________  _____  
+   \__ \/ __ `/ / / / ___/ _ \/ ___/  
+  ___/ / /_/ / /_/ / /__/  __/ /      
+ /____/\__,_/\__,_/\___/\___/_/       
+      _____ __                __      
+     / ___// /_  ____  ____  / /_     
+     \__ \/ __ \/ __ \/ __ \/ __/     
+    ___/ / / / / /_/ / /_/ / /_       
+   /____/_/ /_/\____/\____/\__/       
+                                      
+  Keyboard Controls: 'w'/'s' moves,   
+ Enter fires, Space nukes, 'q' quits. 
+                                      
+   Nunchuk Controls: up/down moves,   
+   Z-button fires, C-button nukes.    
+                                      
+    Press 'p' or Z-button to play,    
+             'q' to quit.             
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

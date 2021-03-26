@@ -1,3 +1,4 @@
+<HEADER>
 frames 5
 width 6
 height 2
@@ -6,13 +7,7 @@ slowdown 4
 </HEADER>
 <BODY>
  ____ 
-/____\
-end
- ____ 
-/___o\
-end
- ____ 
-/__o_\
+/__o\
 end
  ____ 
 /_o__\
